@@ -1,4 +1,4 @@
-# Modelmode.io 1.0.0 (not hosted)
+# Modelmode.io 1.0.0 (not hosted anymore, available as reference)
 
 # requirements.txt
 
