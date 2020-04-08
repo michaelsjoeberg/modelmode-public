@@ -1,0 +1,18 @@
+# Compiled files
+application_config.pyc
+mongodb_connect.pyc
+functions.pyc
+*.pyc
+
+# Other
+README_PRIVATE.md
+globals_private.py
+mongodb_connect.py
+application/logs/*
+application/globals_private.py
+application/static/stripe.js
+
+# Elastic Beanstalk Files
+application/.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
